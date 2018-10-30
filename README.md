@@ -9,3 +9,5 @@ album name and album art are independently sourced and each text element can be 
 Planned updates include download functionality, page-state url parsing and social media sharing.
 
 This app is best viewed on screens over 480px or on desktop.
+
+This is a great app
